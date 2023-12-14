@@ -1,4 +1,6 @@
-# I'm Yokota Koichi
+# About me
+Hi. I'm machine designer.
+I'm currently learning C++ for Atcorder.
 
 #  Skills
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,py&perline=3)](https://skillicons.dev)
